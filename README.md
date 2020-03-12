@@ -33,7 +33,7 @@
 ##### D15：EDA from Correlation
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_015_HW.ipynb">Day015 HW</a>
 ##### D16：EDA: 不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation (KDE)
-- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_014_HW.ipynb">Day016 HW</a>
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_016_HW.ipynb">Day016 HW</a>
 
 
 
