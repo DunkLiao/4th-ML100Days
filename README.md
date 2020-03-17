@@ -34,6 +34,11 @@
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_015_HW.ipynb">Day015 HW</a>
 ##### D16：EDA: 不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation (KDE)
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_016_HW.ipynb">Day016 HW</a>
-
+##### D17：EDA: 把連續型變數離散化
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_017_HW.ipynb">Day017 HW</a>
+##### D18：程式實作 把連續型變數離散化
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_018_HW.ipynb">Day018 HW</a>
+##### D19：Subplots
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_019_HW.ipynb">Day019 HW</a>
 
 
