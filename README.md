@@ -40,5 +40,8 @@
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_018_HW.ipynb">Day018 HW</a>
 ##### D19：Subplots
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_019_HW.ipynb">Day019 HW</a>
-
+##### D20：Heatmap & Grid-plot
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_020_HW.ipynb">Day020 HW</a>
+##### D21：模型初體驗 Logistic Regression
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_021_HW.ipynb">Day021 HW</a>
 
