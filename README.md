@@ -44,4 +44,10 @@
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_020_HW.ipynb">Day020 HW</a>
 ##### D21：模型初體驗 Logistic Regression
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_021_HW.ipynb">Day021 HW</a>
+##### D22：特徵工程簡介
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_022_HW.ipynb">Day022 HW</a>
+##### D23：數值型特徵 - 去除偏態
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_023_HW.ipynb">Day023 HW</a>
+##### D24：類別型特徵 - 基礎處理
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_024_HW.ipynb">Day024 HW</a>
 
