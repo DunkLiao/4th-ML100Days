@@ -50,4 +50,11 @@
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_023_HW.ipynb">Day023 HW</a>
 ##### D24：類別型特徵 - 基礎處理
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_024_HW.ipynb">Day024 HW</a>
-
+##### D25：類別型特徵 - 均值編碼
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_025_HW.ipynb">Day025 HW</a>
+##### D26：類別型特徵 - 其他進階處理
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_026_HW.ipynb">Day026 HW</a>
+##### D27：時間型特徵
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_027_HW.ipynb">Day027 HW</a>
+##### D28：特徵組合 - 數值與數值組合
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_028_HW.ipynb">Day028 HW</a>
