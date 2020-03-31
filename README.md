@@ -58,3 +58,9 @@
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_027_HW.ipynb">Day027 HW</a>
 ##### D28：特徵組合 - 數值與數值組合
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_028_HW.ipynb">Day028 HW</a>
+##### D29：特徵組合 - 類別與數值組合
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_029_HW.ipynb">Day029 HW</a>
+##### D30：特徵選擇
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_030_HW.ipynb">Day030 HW</a>
+##### D31：特徵評估
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_031_HW.ipynb">Day031 HW</a>
