@@ -64,3 +64,9 @@
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_030_HW.ipynb">Day030 HW</a>
 ##### D31：特徵評估
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_031_HW.ipynb">Day031 HW</a>
+##### D32：分類型特徵優化 - 葉編碼
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_032_HW.ipynb">Day032 HW</a>
+##### D33：機器如何學習?
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_033_HW.ipynb">Day033 HW</a>
+##### D34：訓練/測試集切分的概念
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_034_HW.ipynb">Day034 HW</a>
