@@ -70,3 +70,9 @@
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_033_HW.ipynb">Day033 HW</a>
 ##### D34：訓練/測試集切分的概念
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_034_HW.ipynb">Day034 HW</a>
+##### D35：regression vs. classification
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_035_HW.ipynb">Day035 HW</a>
+##### D36：評估指標選定/evaluation metrics
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_036_HW.ipynb">Day036 HW</a>
+##### D37：regression model 介紹 - 線性迴歸/羅吉斯回歸
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_037_HW.ipynb">Day037 HW</a>
