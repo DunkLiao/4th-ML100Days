@@ -76,3 +76,9 @@
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_036_HW.ipynb">Day036 HW</a>
 ##### D37：regression model 介紹 - 線性迴歸/羅吉斯回歸
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_037_HW.ipynb">Day037 HW</a>
+##### D38：regression model 程式碼撰寫
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_038_HW.ipynb">Day038 HW</a>
+##### D39：regression model 介紹 - LASSO 回歸/ Ridge 回歸
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_039_HW.ipynb">Day039 HW</a>
+##### D40：regression model 程式碼撰寫
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_040_HW.ipynb">Day040 HW</a>
