@@ -82,3 +82,9 @@
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_039_HW.ipynb">Day039 HW</a>
 ##### D40：regression model 程式碼撰寫
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_040_HW.ipynb">Day040 HW</a>
+##### D41：tree based model - 決策樹 (Decision Tree) 模型介紹
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_041_HW.ipynb">Day041 HW</a>
+##### D42：tree based model - 決策樹程式碼撰寫
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_042_HW.ipynb">Day042 HW</a>
+##### D43：tree based model - 隨機森林 (Random Forest) 介紹
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_043_HW.ipynb">Day043 HW</a>
