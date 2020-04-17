@@ -88,3 +88,9 @@
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_042_HW.ipynb">Day042 HW</a>
 ##### D43：tree based model - 隨機森林 (Random Forest) 介紹
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_043_HW.ipynb">Day043 HW</a>
+##### D44：tree based model - 隨機森林程式碼撰寫
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_044_HW.ipynb">Day044 HW</a>
+##### D45：tree based model - 梯度提升機 (Gradient Boosting Machine) 介紹
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_045_HW.ipynb">Day045 HW</a>
+##### D46：tree based model - 梯度提升機程式碼撰寫
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_046_HW.ipynb">Day046 HW</a>
