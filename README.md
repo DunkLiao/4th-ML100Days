@@ -94,3 +94,11 @@
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_045_HW.ipynb">Day045 HW</a>
 ##### D46：tree based model - 梯度提升機程式碼撰寫
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_046_HW.ipynb">Day046 HW</a>
+##### D47：超參數調整與優化
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_047_HW.ipynb">Day047 HW</a>
+##### D48：Kaggle 競賽平台介紹
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_048_HW.ipynb">Day048 HW</a>
+##### D49：集成方法 : 混合泛化(Blending)
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_049_HW.ipynb">Day049 HW</a>
+##### D50：集成方法 : 堆疊泛化(Stacking)
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_050_HW.ipynb">Day050 HW</a>
