@@ -102,3 +102,5 @@
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_049_HW.ipynb">Day049 HW</a>
 ##### D50：集成方法 : 堆疊泛化(Stacking)
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_050_HW.ipynb">Day050 HW</a>
+##### D51 - D53：Kaggle期中考 考ML與調參相關
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_051_To_053_HW.ipynb">Day051~053 HW</a>
