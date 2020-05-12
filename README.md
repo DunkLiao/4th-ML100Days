@@ -104,3 +104,9 @@
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_050_HW.ipynb">Day050 HW</a>
 ##### D51 - D53：Kaggle期中考 考ML與調參相關
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_051_To_053_HW.ipynb">Day051~053 HW</a>
+##### D54：clustering 1 非監督式機器學習簡介
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_054_HW.ipynb">Day054 HW</a>
+##### D55：clustering 2 聚類算法
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_055_HW.ipynb">Day055 HW</a>
+##### D56：K-mean 觀察 : 使用輪廓分析
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_056_HW.ipynb">Day056 HW</a>
