@@ -110,3 +110,9 @@
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_055_HW.ipynb">Day055 HW</a>
 ##### D56：K-mean 觀察 : 使用輪廓分析
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_056_HW.ipynb">Day056 HW</a>
+##### D57：clustering 3 階層分群算法
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_057_HW.ipynb">Day057 HW</a>
+##### D58：階層分群法 觀察 : 使用 2D 樣版資料集
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_058_HW.ipynb">Day058 HW</a>
+##### D59：dimension reduction 1 降維方法-主成份分析
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_059_HW.ipynb">Day059 HW</a>
