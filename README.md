@@ -116,3 +116,9 @@
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_058_HW.ipynb">Day058 HW</a>
 ##### D59：dimension reduction 1 降維方法-主成份分析
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_059_HW.ipynb">Day059 HW</a>
+##### D60：PCA 觀察 : 使用手寫辨識資料集
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_060_HW.ipynb">Day060 HW</a>
+##### D61：dimension reduction 2 降維方法-T-SNE
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_061_HW.ipynb">Day061 HW</a>
+##### D62：t-sne 觀察 : 分群與流形還原
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_062_HW.ipynb">Day062 HW</a>
