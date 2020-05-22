@@ -122,3 +122,9 @@
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_061_HW.ipynb">Day061 HW</a>
 ##### D62：t-sne 觀察 : 分群與流形還原
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_062_HW.ipynb">Day062 HW</a>
+##### D63：神經網路介紹
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_063_HW.ipynb">Day063 HW</a>
+##### D64：深度學習體驗 : 模型調整與學習曲線
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_064_HW.ipynb">Day064 HW</a>
+##### D65：深度學習體驗 : 啟動函數與正規化
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_065_HW.ipynb">Day065 HW</a>
