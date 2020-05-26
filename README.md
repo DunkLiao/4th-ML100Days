@@ -128,3 +128,9 @@
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_064_HW.ipynb">Day064 HW</a>
 ##### D65：深度學習體驗 : 啟動函數與正規化
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_065_HW.ipynb">Day065 HW</a>
+##### D66：Keras 安裝與介紹
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_066_HW.ipynb">Day066 HW</a>
+##### D67：Keras Dataset
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_067_HW.ipynb">Day067 HW</a>
+##### D68：Keras Sequential API
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_068_HW.ipynb">Day068 HW</a>
