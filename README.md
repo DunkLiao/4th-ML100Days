@@ -134,3 +134,9 @@
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_067_HW.ipynb">Day067 HW</a>
 ##### D68：Keras Sequential API
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_068_HW.ipynb">Day068 HW</a>
+##### D69：Keras Module API
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_069_HW.ipynb">Day069 HW</a>
+##### D70：Multi-layer Perception多層感知
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_070_HW.ipynb">Day070 HW</a>
+##### D71：損失函數
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_071_HW.ipynb">Day071 HW</a>
