@@ -140,3 +140,9 @@
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_070_HW.ipynb">Day070 HW</a>
 ##### D71：損失函數
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_071_HW.ipynb">Day071 HW</a>
+##### D72：啟動函數
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_072_HW.ipynb">Day072 HW</a>
+##### D73：梯度下降Gradient Descent
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_073_HW.ipynb">Day073 HW</a>
+##### D74：Gradient Descent 數學原理
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_074_HW.ipynb">Day074 HW</a>
