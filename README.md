@@ -146,3 +146,9 @@
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_073_HW.ipynb">Day073 HW</a>
 ##### D74：Gradient Descent 數學原理
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_074_HW.ipynb">Day074 HW</a>
+##### D75：BackPropagation
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_075_HW.ipynb">Day075 HW</a>
+##### D76：優化器optimizers
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_076_HW.ipynb">Day076 HW</a>
+##### D77：訓練神經網路的細節與技巧 - Validation and overfit
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_077_HW.ipynb">Day077 HW</a>
