@@ -152,3 +152,9 @@
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_076_HW.ipynb">Day076 HW</a>
 ##### D77：訓練神經網路的細節與技巧 - Validation and overfit
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_077_HW.ipynb">Day077 HW</a>
+##### D78：訓練神經網路前的注意事項
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_078_HW.ipynb">Day078 HW</a>
+##### D79：訓練神經網路的細節與技巧 - Learning rate effect
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_079_HW.ipynb">Day079 HW</a>
+##### D80：[練習 Day] 優化器與學習率的組合與比較
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_080_HW.ipynb">Day080 HW</a>
