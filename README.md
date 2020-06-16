@@ -158,3 +158,15 @@
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_079_HW.ipynb">Day079 HW</a>
 ##### D80：[練習 Day] 優化器與學習率的組合與比較
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_080_HW.ipynb">Day080 HW</a>
+##### D81：訓練神經網路的細節與技巧 - Regularization
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_081_HW.ipynb">Day081 HW</a>
+##### D82：訓練神經網路的細節與技巧 - Dropout
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_082_HW.ipynb">Day082 HW</a>
+##### D83：訓練神經網路的細節與技巧 - Batch normalization
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_083_HW.ipynb">Day083 HW</a>
+##### D84：[練習 Day] 正規化/機移除/批次標準化的 組合與比較
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_084_HW.ipynb">Day084 HW</a>
+##### D85：訓練神經網路的細節與技巧 - 使用 callbacks 函數做 earlystop
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_085_HW.ipynb">Day085 HW</a>
+##### D86：訓練神經網路的細節與技巧 - 使用 callbacks 函數儲存 model
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_086_HW.ipynb">Day086 HW</a>
