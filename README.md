@@ -170,3 +170,9 @@
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_085_HW.ipynb">Day085 HW</a>
 ##### D86：訓練神經網路的細節與技巧 - 使用 callbacks 函數儲存 model
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_086_HW.ipynb">Day086 HW</a>
+##### D87：訓練神經網路的細節與技巧 - 使用 callbacks 函數做 reduce learning rate
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_087_HW.ipynb">Day087 HW</a>
+##### D88：訓練神經網路的細節與技巧 - 撰寫自己的 callbacks 函數
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_088_HW.ipynb">Day088 HW</a>
+##### D89：訓練神經網路的細節與技巧 - 撰寫自己的 Loss function
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_089_HW.ipynb">Day089 HW</a>
