@@ -180,3 +180,9 @@
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_091_HW.ipynb">Day091 HW</a>
 ##### D92：卷積神經網路 (Convolution Neural Network, CNN) 簡介
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_092_HW.ipynb">Day092 HW</a>
+##### D93：卷積神經網路架構細節
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_093_HW.ipynb">Day093 HW</a>
+##### D94：卷積神經網路 - 卷積(Convolution)層與參數調整
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_094_HW.ipynb">Day094 HW</a>
+##### D95：卷積神經網路 - 池化(Pooling)層與參數調整
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_095_HW.ipynb">Day095 HW</a>
