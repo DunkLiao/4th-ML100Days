@@ -186,3 +186,9 @@
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_094_HW.ipynb">Day094 HW</a>
 ##### D95：卷積神經網路 - 池化(Pooling)層與參數調整
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_095_HW.ipynb">Day095 HW</a>
+##### D96：Keras 中的 CNN layers
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_096_HW.ipynb">Day096 HW</a>
+##### D97：使用 CNN 完成 CIFAR-10 資料集
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_097_HW.ipynb">Day097 HW</a>
+##### D98：訓練卷積神經網路的細節與技巧 - 處理大量數據
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_098_HW.ipynb">Day098 HW</a>
