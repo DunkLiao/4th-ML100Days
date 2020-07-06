@@ -192,3 +192,7 @@
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_097_HW.ipynb">Day097 HW</a>
 ##### D98：訓練卷積神經網路的細節與技巧 - 處理大量數據
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_098_HW.ipynb">Day098 HW</a>
+##### D99：訓練卷積神經網路的細節與技巧 - 處理小量數據
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_099_HW.ipynb">Day099 HW</a>
+##### D100：訓練卷積神經網路的細節與技巧 - 轉移學習 (Transfer learning)
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_100_HW.ipynb">Day100 HW</a>
