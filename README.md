@@ -196,3 +196,9 @@
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_099_HW.ipynb">Day099 HW</a>
 ##### D100：訓練卷積神經網路的細節與技巧 - 轉移學習 (Transfer learning)
 - <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_100_HW.ipynb">Day100 HW</a>
+##### D101 - D103：Kaggle期末考 影像辨識
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_101_To_103_HW.ipynb">Day101~103 HW</a>
+##### D104：互動式網頁神經網路視覺化
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_104_HW.ipynb">Day104 HW</a>
+##### D105：利用Standford互動式網頁, 介紹 parameter 微調（fine-tuning)
+- <a href="https://github.com/DunkLiao/4th-ML100Days/blob/master/homework/Day_105_HW.ipynb">Day105 HW</a>
